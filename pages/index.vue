@@ -497,7 +497,7 @@
                 <dd>1名 / 2日</dd>
               </dl>
               <a
-                href="https://github.com/michinari-sasaki/portfolio"
+                href="https://github.com/michinari-sasaki/vue-portfolio"
                 rel="noreferrer"
                 target="_blank"
                 >GitHub</a
