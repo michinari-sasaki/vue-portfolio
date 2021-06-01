@@ -1,20 +1,23 @@
 # vue-portfolio
 
-## Build Setup
+## 概要
+Vue
+Nuxt
+TypeScript  
+PostCSS  
+で作成した自身のポートフォリオサイトです。
+個人的に使いやすいので
+ReactからVueに作り直して
+サーバーをHerokuからNetlifyに移行しました。
+なので公開URLも以下に変わりました。
 
-```bash
-# install dependencies
-$ npm install
+## 公開URL
+https://dreamy-hypatia-0525b6.netlify.app/
 
-# serve with hot reload at localhost:3000
-$ npm run dev
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+## 実行
+npm install
+npm run dev
 
-# generate static project
-$ npm run generate
-```
+## 補足
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
