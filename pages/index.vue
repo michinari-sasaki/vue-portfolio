@@ -375,7 +375,7 @@
                 <dd>1名 / 2日</dd>
               </dl>
               <a
-                href="https://fast-beach-10367.herokuapp.com/"
+                href="https://unruffled-nobel-1b3713.netlify.app/"
                 rel="noreferrer"
                 target="_blank"
                 >サイトを見る</a
